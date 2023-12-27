@@ -1,6 +1,6 @@
 # Logrido Extension for Adobe Illustrator
 
-Welcome to the official documentation and support hub for Logrido, a cutting-edge Adobe Illustrator extension designed to simplify the process of creating design layouts. Here, you'll find everything you need to get started with Logrido, manage your layouts efficiently, and connect with the community for support and feedback.
+Welcome to the official documentation for Logrido, a cutting-edge Adobe Illustrator extension designed to simplify the process of creating design layouts. Here, you'll find everything you need to get started with Logrido, manage your layouts efficiently, and connect with the community for support and feedback.
 
 **Note**: The Logrido plugin itself is not hosted on GitHub. To download or purchase Logrido, please visit our [Gumroad page](#link-to-gumroad-page).
 
@@ -13,6 +13,17 @@ Welcome to the official documentation and support hub for Logrido, a cutting-edg
 - [Troubleshooting and FAQ](#troubleshooting-and-faq)
 - [Support](#support)
 - [Contributing](#contributing)
+
+## Table of Contents
+- [Introduction](#introduction)
+- [Installation](#installation)
+- [Features](#features)
+- [How to Use](#how-to-use)
+- [Support](#support)
+- [Community](#community)
+- [Feedback and Suggestions](#feedback-and-suggestions)
+- [Contributing](#contributing)
+- [License](#license)
 
 ## Introduction
 Logrido revolutionizes the way designers approach layout creation in Adobe Illustrator. Whether you're working on logos, branding, or complex graphic compositions, Logrido offers a suite of tools designed to enhance efficiency and precision.
