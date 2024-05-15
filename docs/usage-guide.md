@@ -2,6 +2,10 @@
 
 This guide will help you get started with using Logrido, the Adobe Illustrator extension for generating logo grids and typeface framework components. 
 
+Other Link:
+- [Home](https://github.com/valuphic/Logrido/)
+- [Installation guide](installation-guide.md)
+
 ## Requirements
 
 - Adobe Illustrator CC 2018 or later
@@ -23,7 +27,7 @@ This guide will help you get started with using Logrido, the Adobe Illustrator e
 
 ## Using Logrido
 
-### 1. Version 1.0.0 Features
+### 1. Legacy Version 1.0.0  Features
 
 #### Linear Grid
 
@@ -43,6 +47,9 @@ This guide will help you get started with using Logrido, the Adobe Illustrator e
 1. Open the Logrido extension panel.
 2. Enable `Render Bezier Handles`.
 3. Click `Apply` to render bezier handles on your current design.
+
+#### Simplify and duplicate your logo
+This option is for merging every overlapping anchor point and automatically duplicating your selected object or logo. Select to enable the option.
 
 ### 2. Version 2.0.0 Features
 
