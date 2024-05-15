@@ -17,7 +17,7 @@ Other Link:
 ### 1. Purchase and Download
 
 1. Visit our [Gumroad page](https://valuphic.gumroad.com/).
-2. Purchase the desired version of Logrido.
+2. Purchase the desired version of Logrido. (get 50% off of your purchase via this [link](https://github.com/valuphic/Logrido/README.md#purchasing-options)
 3. Download the `.zxp` file from the provided link after purchase.
 
 ### 2. Download and Install ZXP Installer
