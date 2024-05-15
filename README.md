@@ -11,19 +11,11 @@ Welcome to the official documentation for Logrido, a cutting-edge Adobe Illustra
 - [Purchasing Options](#purchasing-options)
 - [Using Logrido](#using-logrido)
 - [Troubleshooting and FAQ](#troubleshooting-and-faq)
-- [Support](#support)
-- [Contributing](#contributing)
-
-## Table of Contents
-- [Introduction](#introduction)
-- [Installation](#installation)
-- [Features](#features)
-- [How to Use](#how-to-use)
-- [Support](#support)
-- [Community](#community)
 - [Feedback and Suggestions](#feedback-and-suggestions)
+- [Support](#support)
 - [Contributing](#contributing)
 - [License](#license)
+
 
 ## Introduction
 Logrido revolutionizes the way designers approach layout creation in Adobe Illustrator. Whether you're working on logos, branding, or complex graphic compositions, Logrido offers a suite of tools designed to enhance efficiency and precision.
