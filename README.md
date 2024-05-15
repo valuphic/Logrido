@@ -35,12 +35,12 @@ Logrido is available through Gumroad with the following options:
 To install Logrido after purchase, follow our detailed [Installation Guide](docs/installation-guide.md). 
 
 ## Using Logrido
-Detailed instructions on how to utilize Logrido's features can be found in our [Usage Guide](#link-to-usage-guide). Explore how to create, manage, and optimize your design layouts using Logrido.
+Detailed instructions on how to utilize Logrido's features can be found in our [Usage Guide](docs/usage-guide.md). Explore how to create, manage, and optimize your design layouts using Logrido.
 
 ## Troubleshooting
 If you encounter any issues during the installation, please refer to our [Troubleshooting and FAQ](docs/faq.md) page.
 
 ## Feedback, Support, and Contributing
-Your feedback and suggestions are invaluable to us. For additional support, feature requests, and bug reports, please join the discussion in our [Discord server](https://discord.gg/DjJ4dF4V).
+Your feedback and suggestions are invaluable to us. For additional support, feature requests, and bug reports, please join the discussion on our [Discord server](https://discord.gg/DjJ4dF4V).
 
 ---
