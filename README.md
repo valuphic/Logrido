@@ -6,7 +6,7 @@ Welcome to the documentation for Logrido, a time-saving Adobe Illustrator extens
 - Save time with efficient, streamlined design processes
 - Easy to customize the appearance to fit your specific needs
 
-**Note**: The Logrido plugin itself is not hosted on GitHub. To download or purchase Logrido, please visit our [Gumroad page](https://valuphic.gumroad.com/).
+**Note**: The Logrido plugin itself is not hosted on GitHub. To download or purchase Logrido, please visit our Gumroad page (links are available in the [Purchasing Options](#purchasing-options)).
 
 ## Table of Contents
 - [Latest Version](#latest-version)
