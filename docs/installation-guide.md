@@ -4,7 +4,7 @@ This guide will walk you through the installation process for the Logrido extens
 
 Other Link:
 [Home](https://github.com/valuphic/Logrido/) 
-[Usage guide](docs/usage-guide.md)
+[Usage guide](/usage-guide.md)
 
 ## Requirements
 
