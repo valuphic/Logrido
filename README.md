@@ -2,7 +2,7 @@
 
 Welcome to the official documentation for Logrido, a cutting-edge Adobe Illustrator extension designed to simplify the process of creating design layouts. Here, you'll find everything you need to get started with Logrido, manage your layouts efficiently, and connect with the community for support and feedback.
 
-**Note**: The Logrido plugin itself is not hosted on GitHub. To download or purchase Logrido, please visit our [Gumroad page](#link-to-gumroad-page).
+**Note**: The Logrido plugin itself is not hosted on GitHub. To download or purchase Logrido, please visit our [Gumroad page]([#link-to-gumroad-page](https://valuphic.gumroad.com/)).
 
 ## Table of Contents
 - [Introduction](#introduction)
