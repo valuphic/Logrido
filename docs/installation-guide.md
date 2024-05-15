@@ -2,6 +2,10 @@
 
 This guide will walk you through the installation process for the Logrido extension for Adobe Illustrator.
 
+Other Link:
+[Home](https://github.com/valuphic/Logrido/) 
+[Usage guide](docs/usage-guide.md)
+
 ## Requirements
 
 - Adobe Illustrator CC 2018 or later
