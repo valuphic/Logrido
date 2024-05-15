@@ -25,13 +25,6 @@ This guide will help you get started with using Logrido, the Adobe Illustrator e
 
 ### 1. Version 1.0.0 Features
 
-#### Circular Grid
-
-1. Open the Logrido extension panel.
-2. Select `Circular Grid` from the options.
-3. Adjust the settings for the circular grid as needed.
-4. Click `Generate` to create the grid in your current document.
-
 #### Linear Grid
 
 1. Open the Logrido extension panel.
@@ -55,13 +48,21 @@ This guide will help you get started with using Logrido, the Adobe Illustrator e
 
 #### Logo Grid Tab
 
-All features from Version 1.0.0 are included in this tab.
+All features from Version 1.0.0 are included in this tab with a circular grid option.
+
+##### Circular Grid
+
+1. Open the Logrido extension panel.
+2. Arrange to Logo Grid tab
+3. Select `Circular Grid` from the options.
+4. Adjust the settings for the circular grid as needed.
+5. Click `Generate` to create the circular grid in your current selected objects.
 
 #### Clearspace Tab
 
 1. Open the Logrido extension panel.
 2. Select the `Clearspace` tab.
-3. Choose the type of clearspace you want to generate (e.g., around logo, around text).
+3. Choose the type of Clearspace you want to generate (e.g., around logo, around text).
 4. Adjust the settings as needed.
 5. Click `Generate` to create the clearspace framework in your current document.
 
@@ -69,7 +70,6 @@ All features from Version 1.0.0 are included in this tab.
 
 - **Customizations**: Utilize the customization options in the Logrido panel to tailor the grids and frameworks to your specific design needs.
 - **Layers**: Organize your grids and frameworks on separate layers for easier management and editing.
-- **Save Presets**: Save frequently used settings as presets for quicker access in future projects.
 
 ## Troubleshooting
 
@@ -83,7 +83,3 @@ If you encounter any issues or have questions, join our [Support Channel](https:
 
 Your feedback is valuable to us. Share your thoughts and suggestions in the [Feedback and Suggestions Channel](https://discord.gg/DjJ4dF4V) on our Discord server.
 
----
-
-**Logrido**: Empowering designers to create with confidence and precision.
-****
