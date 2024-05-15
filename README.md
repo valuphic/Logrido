@@ -32,7 +32,7 @@ Logrido is available through Gumroad with the following options:
 - **Version 2.0.0 and Beyond - Subscription Edition**: Keep up-to-date with ongoing enhancements and support through our monthly or yearly subscription plans. [Subscribe now (50% off)](https://valuphic.gumroad.com/l/logrido/LOGRIDO50).
 
 ## Installation Guide
-To install Logrido after purchase, follow our detailed [Installation Guide](#link-to-installation-guide). 
+To install Logrido after purchase, follow our detailed [Installation Guide](docs/installation-guide.md). 
 
 ## Using Logrido
 Detailed instructions on how to utilize Logrido's features can be found in our [Usage Guide](#link-to-usage-guide). Explore how to create, manage, and optimize your design layouts using Logrido.
