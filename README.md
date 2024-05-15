@@ -1,19 +1,20 @@
 # Logrido Extension for Adobe Illustrator
 
-Welcome to the official documentation for Logrido, a cutting-edge Adobe Illustrator extension designed to simplify the process of creating design layouts. Here, you'll find everything you need to get started with Logrido, manage your layouts efficiently, and connect with the community for support and feedback.
+Welcome to the documentation for Logrido, a time-saving Adobe Illustrator extension designed to generate logo and type grid components. Here, you'll find everything you need to get started with Logrido, manage your logo grid efficiently, and connect with the community for support and feedback.
+
+- Easily generate logo  and typeface grid with a simple custom panel
+- Save time with efficient, streamlined design processes
+- Easy to customize the appearance to fit your specific needs
 
 **Note**: The Logrido plugin itself is not hosted on GitHub. To download or purchase Logrido, please visit our [Gumroad page](https://valuphic.gumroad.com/).
 
 ## Table of Contents
-- [Introduction](#introduction)
 - [Latest Version](#latest-version)
 - [Purchasing Options](#purchasing-options)
 - [Installation Guide](#installation-guide)
 - [Using Logrido](#using-logrido)
 - [Feedback, Support, and Contributing](#feedback-support-and-contributing)
 
-## Introduction
-Logrido revolutionizes the way designers approach layout creation in Adobe Illustrator. Whether you're working on logos, branding, or complex graphic compositions, Logrido offers a suite of tools designed to enhance efficiency and precision.
 
 ## Latest Version
 
@@ -22,11 +23,9 @@ Logrido revolutionizes the way designers approach layout creation in Adobe Illus
 #### What's New:
 - [List of new features, enhancements, and bug fixes]
 
-For more details and download instructions, visit our [Gumroad page](#link-to-gumroad-page).
-
 ## Purchasing Options
 Logrido is available through Gumroad with the following options:
-- **Version 1.0.0 - Legacy Edition**: A one-time purchase, providing a stable version without future updates. [Purchase Link](#)
+- **Version 1.0.0 - Legacy Edition**: A one-time purchase, providing a stable version without future updates. [[Purchase Link](https://valuphic.gumroad.com/l/logrido-logogrid/LOGRIDO50).
 - **Version 2.0.0 and Beyond - Subscription Edition**: Keep up-to-date with ongoing enhancements and support through our monthly or yearly subscription plans. [Purchase Link](#)
 
 ## Installation Guide
