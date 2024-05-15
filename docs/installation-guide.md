@@ -22,14 +22,16 @@ Other Link:
 
 ### 2. Download and Install ZXP Installer
 
-1. Download the ZXP Installer from [AEScripts.com](https://aescripts.com/learn/zxp-installer/).
-2. Install the ZXP Installer by following the on-screen instructions.
+1. Download the ZXP/UXP Installer from [AEScripts.com](https://aescripts.com/learn/zxp-installer/).
+2. Install the ZXP/UXP Installer by following the on-screen instructions.
 
 ### 3. Install Logrido Extension
 
-1. Open the ZXP Installer application.
-2. Drag and drop the downloaded `.zxp` file into the ZXP Installer window.
-3. Follow any on-screen instructions to complete the installation process.
+1. Close your Adobe Illustrator app if open to affect changes.
+2. Open the ZXP/UXP Installer application.
+3. Drag and drop the downloaded `.zxp` file into the ZXP/UXP Installer window.
+4. If you have trouble using the drag and drop method, double-click the .zxp file, and a prompt to install .zxp will shown.
+5. Follow any on-screen instructions to complete the installation process.
 
 ### 4. Verify Installation
 
