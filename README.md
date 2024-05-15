@@ -29,7 +29,7 @@ Welcome to the documentation for Logrido, a time-saving Adobe Illustrator extens
 ## Purchasing Options
 Logrido is available through Gumroad with the following options:
 - **Version 1.0.0 - Legacy Edition**: A one-time purchase, providing a stable version without future updates. [Download now (50% off)](https://valuphic.gumroad.com/l/logrido-logogrid/LOGRIDO50).
-- **Version 2.0.0 and Beyond - Subscription Edition**: Keep up-to-date with ongoing enhancements and support through our monthly or yearly subscription plans. [Download now (50% off)](https://valuphic.gumroad.com/l/logrido/LOGRIDO50).
+- **Version 2.0.0 and Beyond - Subscription Edition**: Keep up-to-date with ongoing enhancements and support through our monthly or yearly subscription plans. [Subscribe now (50% off)](https://valuphic.gumroad.com/l/logrido/LOGRIDO50).
 
 ## Installation Guide
 To install Logrido after purchase, follow our detailed [Installation Guide](#link-to-installation-guide). 
