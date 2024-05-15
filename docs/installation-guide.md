@@ -32,6 +32,7 @@ This guide will walk you through the installation process for the Logrido extens
 1. Open Adobe Illustrator.
 2. Go to `Window` > `Extensions` and check if `Logrido` appears in the list.
 3. Select `Logrido` to open the extension panel.
+4. Make sure to restart your Adobe Illustrator on every fresh new extension install
 
 ### 5. Troubleshooting
 
