@@ -7,8 +7,8 @@ Welcome to the official documentation for Logrido, a cutting-edge Adobe Illustra
 ## Table of Contents
 - [Introduction](#introduction)
 - [Latest Version](#latest-version)
-- [Installation Guide](#installation-guide)
 - [Purchasing Options](#purchasing-options)
+- [Installation Guide](#installation-guide)
 - [Using Logrido](#using-logrido)
 - [Troubleshooting and FAQ](#troubleshooting-and-faq)
 - [Feedback and Suggestions](#feedback-and-suggestions)
@@ -29,13 +29,13 @@ Logrido revolutionizes the way designers approach layout creation in Adobe Illus
 
 For more details and download instructions, visit our [Gumroad page](#link-to-gumroad-page).
 
-## Installation Guide
-To install Logrido after purchase, follow our detailed [Installation Guide](#link-to-installation-guide). 
-
 ## Purchasing Options
 Logrido is available through Gumroad with the following options:
 - **Version 1.0.0 - Legacy Edition**: A one-time purchase, providing a stable version without future updates. [Purchase Link](#)
 - **Version 2.0.0 and Beyond - Subscription Edition**: Keep up-to-date with ongoing enhancements and support through our monthly or yearly subscription plans. [Purchase Link](#)
+
+## Installation Guide
+To install Logrido after purchase, follow our detailed [Installation Guide](#link-to-installation-guide). 
 
 ## Using Logrido
 Detailed instructions on how to utilize Logrido's features can be found in our [Usage Guide](#link-to-usage-guide). Explore how to create, manage, and optimize your design layouts using Logrido.
