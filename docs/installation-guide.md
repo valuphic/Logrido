@@ -9,7 +9,7 @@ Other Link:
 ## Requirements
 
 - Adobe Illustrator CC 2018 or later
-- An active internet connection for downloading and verifying the license key of the extension
+- An active internet connection for downloading the logrido .zxp extension.
 - ZXP/UXP Installer from AEScripts.com
 
 ## Steps to Install Logrido
