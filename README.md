@@ -10,12 +10,7 @@ Welcome to the official documentation for Logrido, a cutting-edge Adobe Illustra
 - [Purchasing Options](#purchasing-options)
 - [Installation Guide](#installation-guide)
 - [Using Logrido](#using-logrido)
-- [Troubleshooting and FAQ](#troubleshooting-and-faq)
-- [Feedback and Suggestions](#feedback-and-suggestions)
-- [Support](#support)
-- [Contributing](#contributing)
-- [License](#license)
-
+- [Feedback, Support, and Contributing](#feedback-support-and-contributing)
 
 ## Introduction
 Logrido revolutionizes the way designers approach layout creation in Adobe Illustrator. Whether you're working on logos, branding, or complex graphic compositions, Logrido offers a suite of tools designed to enhance efficiency and precision.
@@ -40,15 +35,7 @@ To install Logrido after purchase, follow our detailed [Installation Guide](#lin
 ## Using Logrido
 Detailed instructions on how to utilize Logrido's features can be found in our [Usage Guide](#link-to-usage-guide). Explore how to create, manage, and optimize your design layouts using Logrido.
 
-## Troubleshooting and FAQ
-Encountering issues or have questions? Our [Troubleshooting and FAQ](#link-to-faq) section provides answers and solutions to common queries and concerns.
-
-## Support
-For additional support, feel free to reach out via our [Support Channel](#link-to-support-channel).
-
-## Contributing
-While the source code of Logrido is not available on GitHub, your feedback and suggestions are invaluable to us. Please share your thoughts, feature requests, and bug reports in the [Issues](#link-to-github-issues) section.
+## Feedback, Support, and Contributing
+Your feedback and suggestions are invaluable to us. For additional support, feature requests, and bug reports, please join the discussion in our [Discord server](https://discord.gg/DjJ4dF4V).
 
 ---
-
-**Logrido**: Empowering designers to create with confidence and precision.
