@@ -46,4 +46,4 @@ If you encounter any issues during the installation, please refer to our [Troubl
 
 ---
 
-For additional support, join our [Discord server](https://discord.gg/DjJ4dF4V).
+For additional support, join our [Discord server](https://discord.gg/mvqVy4uyKU).
