@@ -41,6 +41,6 @@ Detailed instructions on how to utilize Logrido's features can be found in our [
 If you encounter any issues during the installation, please refer to our [Troubleshooting and FAQ](docs/faq.md) page.
 
 ## Feedback, Support, and Contributing
-Your feedback and suggestions are invaluable to us. For additional support, feature requests, and bug reports, please join the discussion on our [Discord server](https://discord.gg/DjJ4dF4V).
+Your feedback and suggestions are invaluable to us. For additional support, feature requests, and bug reports, please join the discussion on our [Discord server](https://discord.gg/mvqVy4uyKU).
 
 ---
