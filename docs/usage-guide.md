@@ -84,7 +84,7 @@ For common issues and their solutions, refer to our [Troubleshooting and FAQ](do
 
 ## Support
 
-If you encounter any issues or have questions, join our [Support Channel](https://discord.gg/DjJ4dF4V) on Discord.
+If you encounter any issues or have questions, join our [Support Channel](https://discord.gg/mvqVy4uyKU) on Discord.
 
 ## Feedback and Suggestions
 
