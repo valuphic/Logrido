@@ -7,7 +7,7 @@ Other Link:
 - [Usage guide](usage-guide.md)
 
 ## Video 
-[![How to Install Logrido](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=5rFFlGRywqg)
+[![How to Install Logrido](https://img.youtube.com/vi/5rFFlGRywqg/0.jpg)](https://www.youtube.com/watch?v=5rFFlGRywqg)
 
 ## Requirements
 
