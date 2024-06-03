@@ -4,7 +4,7 @@
 - Initial release of the Circular Grid Generator.
 - Basic functionality implemented.
 - Known issues: 
-Inaccurate calculations in some cases, such as imprecise gaps (e.g., gap of 0.0).
+Inaccurate calculations in some cases, such as imprecise gaps (e.g., gap of 0.02 - 0.05 pixels).
 Multiple circles are generated in circular segments with more than two anchor points.
 - Upcoming features: N/A
 
