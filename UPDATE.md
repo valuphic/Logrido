@@ -9,6 +9,6 @@ Multiple circles are generated in circular segments with more than two anchor po
 - Upcoming features: N/A
 
 ### Stay Updated, Report Issues, and Join the Community
-For the latest updates on the Circular Grid Generator BETA, including real-time updates, bug reports, feedback, and community engagement, please join our Discord server. Your input is crucial in helping us improve the tool and ensuring it meets your needs.
+For the latest updates on the Circular Grid Generator BETA and other new UPDATES, including real-time updates, bug reports, feedback, and community engagement, please join our Discord server. Your input is crucial in helping us improve the tool and ensuring it meets your needs.
 
 Join our Discord Server here: https://discord.gg/mvqVy4uyKU
