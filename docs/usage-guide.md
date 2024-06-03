@@ -6,6 +6,9 @@ Other Link:
 - [Home](https://github.com/valuphic/Logrido/)
 - [Installation guide](installation-guide.md)
 
+## Video Tutorial
+[![How to Use Logrido](https://img.youtube.com/vi/MHASKq7EMFc/0.jpg)](https://www.youtube.com/watch?v=MHASKq7EMFc)
+
 ## Requirements
 
 - Adobe Illustrator CC 2018 or later
@@ -57,7 +60,7 @@ This option is for merging every overlapping anchor point and automatically dupl
 
 All features from Version 1.0.0 are included in this tab with a circular grid option.
 
-##### Circular Grid
+##### Circular Grid (BETA)
 
 1. Open the Logrido extension panel.
 2. Arrange to Logo Grid tab
