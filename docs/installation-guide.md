@@ -6,6 +6,9 @@ Other Link:
 - [Home](https://github.com/valuphic/Logrido/)
 - [Usage guide](usage-guide.md)
 
+## Video 
+[![How to Install Logrido](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=5rFFlGRywqg)
+
 ## Requirements
 
 - Adobe Illustrator CC 2018 or later
