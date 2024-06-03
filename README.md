@@ -1,8 +1,8 @@
 # Logrido Extension for Adobe Illustrator
 
-Welcome to the documentation for Logrido, a time-saving Adobe Illustrator extension designed to generate logo and type grid components. Here, you'll find everything you need to get started with Logrido, manage your logo grid efficiently, and connect with the community for support and feedback.
+Welcome to the documentation for Logrido, a time-saving Adobe Illustrator extension designed to generate logo and clearspace grid components. Here, you'll find everything you need to get started with Logrido, manage your logo grid efficiently, and connect with the community for support and feedback.
 
-- Easily generate logo  and typeface grid with a simple custom panel
+- Easily generate logo grids and logo clearspace with a simple custom panel
 - Save time with efficient, streamlined design processes
 - Easy to customize the appearance to fit your specific needs
 
