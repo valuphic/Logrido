@@ -24,6 +24,7 @@ Welcome to the documentation for Logrido, a time-saving Adobe Illustrator extens
 #### What's New:
 - Added 2 menu tabs for logo grid and clearspace
 - Added circular grid (BETA)
+- Added prompt for generated elements
 - Bug fixes
 
 ## Purchasing Options
